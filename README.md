@@ -1,1 +1,1 @@
-# rescmain
+# resc
